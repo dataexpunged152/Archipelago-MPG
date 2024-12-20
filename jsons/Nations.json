@@ -11,21 +11,15 @@
 		
 		"declaringWar": "Нашим правительством было вынесено решение объявить вам войну.",
 		"attacked": "Агрессоры...",
-		"defeated": "Мы не смогли совладать с вашей мощью, к сожалению...",
+		"defeated": "Мы не смогли совладать с вашей мощью, к сожалению для нас, но мы обязательно вернёмся...",
 		"introduction": "Здравствуйте, меня зовут Карл Иренеус, я глава и представитель Ирдиана — Горной страны, не нацеленной на создание лишних конфликтов.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Приветствую.",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Здравствуйте...",
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Мы так рады тому, что наш конфликт окончился миром!",
+		"tradeRequest": "Нам есть что обсудить...",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
