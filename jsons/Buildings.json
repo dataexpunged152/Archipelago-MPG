@@ -4,7 +4,7 @@
 		"uniqueTo": "Ирдиан",
 		"cost": 400,
 		"production": 5
-		"percentStatBonus": {production: 12}
+		"percentStatBonus": {"production": 12},
 		"isNationalWonder": false,
 		"requiredTech": "Industrialization"
 	}
