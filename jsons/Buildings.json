@@ -6,7 +6,7 @@
 		"production": 7
 		"percentStatBonus": {"production": 13},
 		"maintenance": 4
-		"isNationalWonder": false,
+		"uniques": ["Must be next to [Mountain]", "Must be next to [Hill]"],
 		"requiredTech": "Industrialization"
 	}
 ]
