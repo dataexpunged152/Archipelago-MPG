@@ -24,7 +24,7 @@
 		"outerColor": [220,220,220],
 		"innerColor": [100,160,190],
 		"uniqueName": "Страна высот",
-		"unique": "[+2 Production] <in [Hills] tiles>",
+		"unique": "[+1 Production] <in [Tundra] tiles>",
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
