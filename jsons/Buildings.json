@@ -3,8 +3,9 @@
 		"name": "Продвинутая шахта",
 		"uniqueTo": "Ирдиан",
 		"cost": 400,
-		"production": 5
-		"percentStatBonus": {"production": 12},
+		"production": 7
+		"percentStatBonus": {"production": 13},
+		"maintenance": 4
 		"isNationalWonder": false,
 		"requiredTech": "Industrialization"
 	}
