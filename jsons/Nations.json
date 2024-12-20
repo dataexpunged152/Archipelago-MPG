@@ -3,7 +3,7 @@
 		"name": "Ирдиан",
 		"leaderName": "Карл Иренеус",
 		"adjective": ["ирдианский"],
-		"startBias": ["Hill", "Grassland"],
+		"startBias": ["[ {Grassland} {Hill} ]"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Здравствуйте, Карл Иренеус, добро пожаловать в Ирдиан, горную страну с большой историей.",
