@@ -25,6 +25,6 @@
 		"innerColor": [100,160,190],
 		"uniqueName": "Страна высот",
 		"uniques": ["[+5]% Strength <when fighting in [Hill] tiles>", "[+2 Production] <in [Hill] tiles>"],
-		"cities": ["Vihina","Derina","Labernica","Huvinus","Curovul","Blarken","Nalinot","Juneras","Tilaspic","Minacis","Ceuluy","Urytin","Rebutin","Benusila","Nelina"]
+		"cities": ["Вихина","Дерина","Лаберница","Тулиан","Куровул","Бларкин","Налинот","Джунерас","Тиласпиц","Минацис","Цеулий","Уритнис","Родунит","Бенусила","Нелина"]
 	}
 ]
