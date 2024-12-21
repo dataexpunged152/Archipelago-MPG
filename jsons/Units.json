@@ -13,5 +13,21 @@
 		"civilopediaText": [
 			{"text": "Специально обученная пехота для боёв на высотах."}
 		]
-	}
+	},
+	{
+		"name": "Подводная лодка «Мегалодон»",
+		"unitType": "Submarine",
+		"uniqueTo": "Мари",
+		"replaces": "Submarine",
+		"movement": 7,
+		"strength": 40,
+		"rangedStrenght": 75,
+		"range": 3,
+		"cost": 375,
+		"requiredTech": "Refrigeration",
+		"uniques": ["[+75]% Strength <when attacking>", "Can only attack [Water] tiles"],
+		"attackSound": "torpedo",
+		"civilopediaText": [
+			{"text": "Сильнейшая подводная лодка в истории."}
+		]
 ]
