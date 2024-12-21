@@ -79,8 +79,8 @@
 
 		"outerColor": [175, 135, 80],
 		"innerColor": [25, 25, 25],
-		"uniqueName": "Патриотизм",
-		"uniques": "[+5]% Strength <when fighting>"
+		"uniqueName": "Патриотизм и военная экономика",
+		"uniques": ["[+5]% Strength <when fighting>","[+10]% Production when constructing [Military] unit [in all cities]","[+20]% [Production] <when at war>"]
 		"cities": ["Хельстор","Нюрбинбург","Вунделен","Довтенберг","Нювнерген","Ховелбург","Хеланберг","Ренстенден","Сутенден","Сорсенвен","Беилоргерн","Будервебург","Хорпенстен"]
 	}
 ]
