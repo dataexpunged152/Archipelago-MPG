@@ -40,5 +40,11 @@
 		"rangedStrenght": 100,
 		"range": 8,
 		"cost": 375,
-		
+		"requiredTech": "Radar",
+		"requiredResource": "Oil",
+		"attackSound": "bombing",
+		"civilopediaText": [
+			{"text": "Бомбардировщику дано название «Ластик» потому, что он «стирает с лица земли»."
+		]
+	}
 ]
