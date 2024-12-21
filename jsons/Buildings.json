@@ -18,7 +18,8 @@
 		"percentStatBonus": {"production": 10},
 		"maintenance": 4,
 		"requiredBuilding": "Factory",
-		"requiredResource": "Coal"
+		"uniques": [ебал]
+		"requiredResource": "Coal",
 		"requiredTech": "Electricity"
 	},
 	        "name": "
