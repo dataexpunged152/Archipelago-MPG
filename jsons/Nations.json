@@ -52,7 +52,7 @@
 		"outerColor": [220, 200, 60],
 		"innerColor": [155, 50, 50],
 		"uniqueName": "Огромная гражданская и военная промышленность"
-		"uniques": "",
+		"uniques": ["[+2 Production] [in all cities]",]
 		"cities": ["Е"]
 	}
 ]
