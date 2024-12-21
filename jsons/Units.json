@@ -9,6 +9,6 @@
 		"cost": 375,
 		"requiredTech": "Plastics",
 		"promotions": ["Drill I","Drill II"],
-		"attackSound": "no"
+		"attackSound": "Lee Enfield"
 	}
 ]
