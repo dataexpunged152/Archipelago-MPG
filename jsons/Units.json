@@ -23,12 +23,22 @@
 		"strength": 40,
 		"rangedStrenght": 75,
 		"range": 3,
-		"cost": 375,
+		"cost": 350,
 		"requiredTech": "Refrigeration",
 		"uniques": ["[+75]% Strength <when attacking>", "Can only attack [Water] tiles"],
 		"attackSound": "torpedo",
 		"civilopediaText": [
 			{"text": "Сильнейшая подводная лодка в истории."}
 		]
-	}
+	},
+	{
+		"name": "Бомбардировщик «Ластик»",
+		"unitType": "Bomber",
+		"uniqueTo": "Литилия",
+		"replaces": "Bomber",
+		"strength": 100,
+		"rangedStrenght": 100,
+		"range": 8,
+		"cost": 375,
+		
 ]
