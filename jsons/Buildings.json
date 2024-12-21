@@ -3,11 +3,21 @@
 		"name": "Продвинутая шахта",
 		"uniqueTo": "Ирдиан",
 		"cost": 400,
-		"production": 7
+		"production": 7,
 		"percentStatBonus": {"production": 13},
-		"maintenance": 4
+		"maintenance": 4,
 		"requiredBuilding": "Workshop",
 		"uniques": ["Must be next to [Mountain]"],
 		"requiredTech": "Industrialization"
+	},
+	{
+		"name": "Продвинутый завод",
+		"uniqueTo": "Мари",
+		"cost": 400,
+		"production": 6,
+		"percentStatBonus": {"production": 10},
+		"maintenance": 4,
+		"requiredBuilding": "Factory",
+		"requiredTech": "Electricity"
 	}
 ]
