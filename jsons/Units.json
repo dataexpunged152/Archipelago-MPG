@@ -9,7 +9,7 @@
 		"cost": 375,
 		"requiredTech": "Plastics",
 		"promotions": ["Drill I","Drill II","Ignore terrain cost"],
-		"attackSound": "Lee Enfield"
+		"attackSound": "Lee Enfield",
 		"civilopediaText": [
 			{"text": "Специально обученная пехота для боёв на высотах."}
 		]
