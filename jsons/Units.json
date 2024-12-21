@@ -8,7 +8,7 @@
 		"strength": 70,
 		"cost": 375,
 		"requiredTech": "Plastics",
-		"promotions": ["Drill I","Drill II","Ignore Terrain Cost"],
+		"promotions": ["Drill I","Drill II","Ignore terrain cost"],
 		"attackSound": "Lee Enfield"
 	}
 ]
