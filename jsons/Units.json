@@ -8,7 +8,7 @@
 		"strength": 70,
 		"cost": 375,
 		"requiredTech": "Plastics",
-		"uniques": ["[+30]% Strenght <when fighting in [Hill] tiles>", "[+30]% Strength <vs [Mounted] units>"],
+		"uniques": ["[+30]% Strenght <when fighting in [Hill] tiles>"],
 		"promotions": ["Drill I","Drill II","Ignore terrain cost"],
 		"attackSound": "Lee Enfield"
 		"civilopediaText": [
